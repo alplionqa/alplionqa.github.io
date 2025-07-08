@@ -8,7 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: `/`,
+  pathPrefix: `/home`,
   siteMetadata: {
     title: `alplion.QA`,
     author: {
